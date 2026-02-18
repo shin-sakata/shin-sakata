@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&height=60&lines=Hi%2C+I'm+Shin+Sakata;Full-Stack+TypeScript+Engineer;Building+AI+Agent-friendly+Tools;Infrastructure+as+Code+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=650&height=60&lines=Hi%2C+I'm+Shin+Sakata;Full-Stack+TypeScript+Engineer;Building+AI+Agent-friendly+Tools;Type-Safety+%26+Functional+Programming;Infrastructure+as+Code+Enthusiast)](https://git.io/typing-svg)
 
 </div>
 
@@ -9,11 +9,12 @@
 
 ## About Me
 
-Backend-leaning full-stack engineer with a passion for **functional programming** and **declarative infrastructure**.
+Backend-leaning full-stack engineer with a passion for **functional programming**, **type-level programming**, and **declarative infrastructure**.
 
-I build **AI Agent-friendly applications** and manage environments through **Infrastructure as Code**. Currently contributing to [Spir](https://www.spirinc.com/) as a freelance engineer while developing **nexus-notebook** — an AI Agent-native note & workspace app.
+I believe in **compile-time safety over runtime checks** — from type-level routing DSLs in Haskell to declarative infra with Nix. Currently building **AI Agent-friendly applications** and managing environments through **Infrastructure as Code**. Contributing to [Spir](https://www.spirinc.com/) as a freelance engineer while developing **nexus-notebook** — an AI Agent-native note & workspace app.
 
 **Career highlights:**
+- Built [**Citrous**](https://github.com/shin-sakata/Citrous) — a type-safe Haskell web framework with type-level routing DSL
 - Led company-wide **LeSS (Large-Scale Scrum)** adoption at HERP
 - Designed and built **AI Recruiter** — an AI-powered recruiting assistant
 - Built **DataHub** — a centralized recruitment data platform
@@ -60,6 +61,7 @@ I build **AI Agent-friendly applications** and manage environments through **Inf
 
 **AI / Agent**
 
+![AI SDK](https://img.shields.io/badge/AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![MCP SDK](https://img.shields.io/badge/MCP_SDK-412991?style=for-the-badge&logoColor=white)
 ![Tool Calling](https://img.shields.io/badge/Tool_Calling-FF6F00?style=for-the-badge&logoColor=white)
 
@@ -109,6 +111,20 @@ Powered by **Nix**, **home-manager**, and **Lix**.
 ![Nix](https://img.shields.io/badge/Nix-5277C3?style=flat-square&logo=nixos&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Citrous](https://github.com/shin-sakata/Citrous)
+Type-safe Web Application Framework for Haskell.
+Features a **type-level routing DSL** with `:>` combinator, **compile-time content-type negotiation**, and **type-safe path/query/body extraction** — built on **WAI/Warp**.
+
+![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white)
+![WAI](https://img.shields.io/badge/WAI%2FWarp-5D4F85?style=flat-square&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
 </td>
 </tr>
 </table>
