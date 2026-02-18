@@ -82,7 +82,7 @@ I believe in **compile-time safety over runtime checks** — from type-level rou
 | **2026/01 ~** | **Spir** | 日程調整 SaaS 開発 (Freelance) |
 | 2025/07 ~ 2025/10 | **BrainPad** | AI Agent / Multimodal RAG 技術支援 (Freelance) |
 | 2020/09 ~ 2026/01 | **HERP** | Engineer & Scrum Master — LeSS 全社導入, DataHub, AI Recruiter |
-| 2019/02 ~ 2020/08 | **Leverages** | Engineer |
+| 2019/02 ~ 2020/08 | **Leverages** | Tech Lead — [Hataractive](https://hataractive.jp/) |
 
 ---
 
