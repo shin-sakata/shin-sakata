@@ -16,8 +16,8 @@ I believe in **compile-time safety over runtime checks** — from type-level rou
 **Career highlights:**
 - Built [**Citrous**](https://github.com/shin-sakata/Citrous) — a type-safe Haskell web framework with type-level routing DSL
 - Led company-wide **LeSS (Large-Scale Scrum)** adoption at HERP
-- Designed and built **AI Recruiter** — an AI-powered recruiting assistant
-- Built **DataHub** — a centralized recruitment data platform
+- Designed and built [**AI Recruiter**](https://lp.herp.cloud/ai-recruiter) — an AI-powered recruiting assistant
+- Built [**DataHub**](https://lp.herp.cloud/datahub) — a centralized recruitment data platform
 
 **Dev environment:** macOS / nix-darwin / VSCode / Zsh
 
