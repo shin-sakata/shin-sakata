@@ -15,7 +15,7 @@ I believe in **compile-time safety over runtime checks** — from type-level rou
 
 **Career highlights:**
 - Built [**Citrous**](https://github.com/shin-sakata/Citrous) — a type-safe Haskell web framework with type-level routing DSL
-- Led company-wide **LeSS (Large-Scale Scrum)** adoption at HERP
+- Led company-wide **LeSS (Large-Scale Scrum)** adoption at [HERP](https://herp.co.jp/)
 - Designed and built [**AI Recruiter**](https://lp.herp.cloud/ai-recruiter) — an AI-powered recruiting assistant
 - Built [**DataHub**](https://lp.herp.cloud/datahub) — a centralized recruitment data platform
 
@@ -79,10 +79,10 @@ I believe in **compile-time safety over runtime checks** — from type-level rou
 
 | Period | Company | Role |
 |--------|---------|------|
-| **2026/01 ~** | **Spir** | 日程調整 SaaS 開発 (Freelance) |
-| 2025/07 ~ 2025/10 | **BrainPad** | AI Agent / Multimodal RAG 技術支援 (Freelance) |
-| 2020/09 ~ 2026/01 | **HERP** | Engineer & Scrum Master — LeSS 全社導入, DataHub, AI Recruiter |
-| 2019/02 ~ 2020/08 | **Leverages** | Tech Lead — [Hataractive](https://hataractive.jp/) |
+| **2026/01 ~** | **[Spir](https://www.spirinc.com/)** | 日程調整 SaaS 開発 (Freelance) |
+| 2025/07 ~ 2025/10 | **[BrainPad](https://www.brainpad.co.jp/)** | AI Agent / Multimodal RAG 技術支援 (Freelance) |
+| 2020/09 ~ 2026/01 | **[HERP](https://herp.co.jp/)** | Engineer & Scrum Master — LeSS 全社導入, DataHub, AI Recruiter |
+| 2019/02 ~ 2020/08 | **[Leverages](https://leverages.jp/)** | Tech Lead — [Hataractive](https://hataractive.jp/) |
 
 ---
 
