@@ -2,7 +2,7 @@
 
 # shin-sakata
 
-東京を拠点とするソフトウェアエンジニア。専門は AI エージェント。\
+東京を拠点とするソフトウェアエンジニア、スクラムマスター。専門は Web と AI エージェント。\
 HERP では、採用 AI エージェント [AI Recruiter](https://lp.herp.cloud/ai-recruiter) を設計・実装した。\
 現在は業務委託で開発に携わりつつ、個人プロジェクト [langify.org](https://github.com/langify-org) を進めている。
 

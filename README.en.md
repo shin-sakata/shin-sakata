@@ -2,7 +2,7 @@
 
 # shin-sakata
 
-Software engineer in Tokyo, specializing in AI agents.\
+Software engineer and Scrum Master in Tokyo, specializing in the web and AI agents.\
 At HERP, I designed and built [AI Recruiter](https://lp.herp.cloud/ai-recruiter), a recruiting AI agent.\
 Now I work freelance, and run [langify.org](https://github.com/langify-org), my personal project.
 
