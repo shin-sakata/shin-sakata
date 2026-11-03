@@ -11,7 +11,7 @@ HERP では、採用 AI エージェント [AI Recruiter](https://lp.herp.cloud/
 ## [langify.org](https://github.com/langify-org)
 
 Muse、dot、Claude Duet、Grok Bot のように、AI エージェントは専用の計算機で常時稼働する存在になりつつある。\
-langify.org は、その実行基盤を自前のインフラで研究開発し、OSS として公開していく。\
+langify.org は、それをセルフホストで実現する技術を研究開発し、OSS として公開していく。\
 一部はすでに公開している。
 
 - **Always-on**\

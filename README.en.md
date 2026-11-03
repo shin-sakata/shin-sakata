@@ -11,7 +11,7 @@ Contact: [X](https://x.com/lambda_funtaro) / [YOUTRUST](https://youtrust.jp/user
 ## [langify.org](https://github.com/langify-org)
 
 Like Muse, dot, Claude Duet, and Grok Bot, AI agents are moving onto computers of their own, running around the clock.\
-langify.org researches and builds the platform for them on infrastructure you own, and open-sources it.\
+langify.org researches and builds what it takes to self-host them, and open-sources it.\
 Parts of it are already public.
 
 - **Always-on**\
