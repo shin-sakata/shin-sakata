@@ -29,24 +29,29 @@ langify.org は、それをセルフホストで実現する技術を研究開�
   常駐するエージェントを安全に運用する方法そのものも、研究の対象としている
 
 ```mermaid
-flowchart TB
-  client["Browser / Discord"]
+flowchart LR
+  client(["Any device"])
 
   subgraph platform["Platform — homelab"]
     subgraph env["Environment — hq"]
-      harness["Harness<br/>DeepSeek Harness + plugins"]
+      harness["Agent Harness"]
     end
     llmgw["LLM gateway"]
     mcp["MCP gateway"]
   end
 
-  provider["Provider<br/>LLM APIs"]
-  llm["LLM"]
-  tools["Services"]
+  provider["LLM Provider"]
+  llm(["LLM"])
+  tools(["Services"])
 
-  client -- "VPN / Discord" --> harness
+  client -- "VPN" --> harness
   harness -- "HTTP API" --> llmgw --> provider --> llm
-  harness -- "MCP over HTTP" --> mcp --> tools
+  harness -- "MCP" --> mcp --> tools
+
+  classDef core stroke-width:3px
+  class harness core
+  style platform fill:none,stroke-dasharray:6 4
+  style env fill:none
 ```
 
 - **Platform**：homelab — IncusOS 上のインスタンスを OpenTofu で定義
